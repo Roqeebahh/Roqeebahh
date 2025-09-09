@@ -1,5 +1,10 @@
-Hi, I’m Roqeebah, I’m an aspiring software developer based in Nigeria, I’m currently learning C# programming language.
-I have profound interest in frontend development and everything in between.
+A driven and detail-oriented Software Engineer passionate about designing and developing efficient, scalable, and maintainable solutions. 
+With a solid foundation in programming languages, data structures, and algorithms, I excel in the entire software development lifecycle, from concept to delivery.
+
+My technical skill set includes expertise in C# .NET, SQL Server, ASP.NET, MVC, Entity Framework amongst others.
+
+I'm eager to connect with fellow developers, tech enthusiasts, industry professionals, and potential collaborators. 
+Let's exchange ideas, explore new opportunities, and drive innovation together!
 📫 Husseinroqeebah669@gmail.com
 
 <!---
